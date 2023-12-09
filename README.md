@@ -12,4 +12,4 @@
 -->
 
 - 🌱 I graduated from Chongqing University, majoring in College of Computer Science.
-- 📫 Contact with me via Email: ht15077558839@gmail.com
+- 📫 Contact with me via e-mail: ht15077558839@gmail.com
