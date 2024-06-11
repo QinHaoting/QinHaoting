@@ -15,8 +15,19 @@
 - 📫 Contact with me via e-mail: ht15077558839@gmail.com
 
 
-[![Haoting's GitHub stats](https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=Haoting Qin&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HaotingQin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=Haoting Qin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### Top Repositories
 
-[![Readme Card](https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=Haoting Qin&repo=pzh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--repo 1-->
+<a href="https://github.com/QinHaoting/SceneModeling">
+  <img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=qinhaoting&repo=SceneModeling&theme=buefy" />
+</a>
+<!--repo 1-->
+<!-- <a href="https://github.com/QinHaoting/pzh">
+  <img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=qinhaoting&repo=pzh&theme=buefy" />
+</a> -->
+<br />
