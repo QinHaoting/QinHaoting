@@ -13,3 +13,10 @@
 
 - 🌱 I graduated from Chongqing University, majoring in College of Computer Science.
 - 📫 Contact with me via e-mail: ht15077558839@gmail.com
+
+
+[![Haoting's GitHub stats](https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=HaotingQin&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=HaotingQin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=HaotingQin&repo=pzh)](https://github.com/anuraghazra/github-readme-stats)
