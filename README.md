@@ -1,16 +1,14 @@
 ### Hi there, I'm Haoting 👋
 
-
-
-- 🌱 I graduated from Chongqing University, majoring in College of Computer Science.
-- 📫 Contact with me via e-mail: ht15077558839@gmail.com
+- 🧑‍🎓 Bachelor: [College of Computer Science, Chongqing University](http://www.cs.cqu.edu.cn/xbwz/sy.htm)
+- 📫 Email: ht15077558839@gmail.com
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HaotingQin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&layout=compact&theme=buefy&hide_border=true&hide=html,javascript,css,jupyter" /></a> |
 | ------------- | ------------- |
 
 
-#### 🔨 Tools I Use
+#### 🔨 Skills Tree
 
 <!--frontend
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
