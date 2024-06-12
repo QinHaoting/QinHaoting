@@ -4,7 +4,7 @@
 - 📫 Email: ht15077558839@gmail.com
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HaotingQin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&layout=compact&theme=buefy&hide_border=true&hide=html,javascript,css,jupyter" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HaotingQin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&layout=compact&theme=buefy&hide_border=true&hide=html,javascript" /></a> |
 | ------------- | ------------- |
 
 
