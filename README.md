@@ -4,8 +4,28 @@
 - 📫 Email: ht15077558839@gmail.com
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HaotingQin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&layout=compact&theme=buefy&hide_border=true&hide=html,javascript" /></a> |
-| ------------- | ------------- |
+
+
+<a href="https://github.com/QinHaoting/github-readme-stats">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&theme=buefy&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage"
+            alt="My Github stats"
+            height="300"
+          />
+      </td>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&theme=buefy&layout=pie&hide_border=true&langs_count=8&hide=html,javascript&size_weight=0.5&count_weight=0.5"
+            alt="My Language stats"
+            width="300"
+          />
+      </td>
+    </tr>
+  </table>
+</a>
 
 
 #### 🔨 Skills Tree
@@ -38,12 +58,13 @@
 
 <!--repo 1-->
 <a href="https://github.com/QinHaoting/SceneModeling">
-  <img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=qinhaoting&repo=SceneModeling&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=qinhaoting&repo=SceneModeling&theme=buefy&description_lines_count=3" />
 </a>
 
 <!--repo x-->
-<!-- <a href="https://github.com/QinHaoting/pzh">
-  <img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=qinhaoting&repo=pzh&theme=buefy" />
-</a> -->
-
+<!--
+<a href="https://github.com/QinHaoting/pzh">
+  <img align="center" src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/pin/?username=qinhaoting&repo=pzh&theme=buefy&description_lines_count=3" />
+</a>
+-->
 <br />
