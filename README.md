@@ -1,5 +1,5 @@
 ### Hi there, I'm Haoting 👋
-- 🧑‍💻 Mastering: [Department of Computer, City University of HongKong](https://www.cs.cityu.edu.hk/)
+- 🧑‍💻 Mastering: [Department of Computer Science, City University of HongKong](https://www.cs.cityu.edu.hk/)
 - 🧑‍🎓 Bachelor: [College of Computer Science, Chongqing University](http://www.cs.cqu.edu.cn/xbwz/sy.htm)
 - 📫 Email: ht15077558839@gmail.com
 - 👟 Passionate in: Backend Development and Architectural Design
