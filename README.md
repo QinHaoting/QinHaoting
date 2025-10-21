@@ -1,7 +1,8 @@
 ### Hi there, I'm Haoting 👋
+- 👨‍💻 Master: [College of Computing, City University of Hong Kong](https://www.cityu.edu.hk/cc/)
 - 🧑‍🎓 Bachelor: [College of Computer Science, Chongqing University](http://www.cs.cqu.edu.cn/xbwz/sy.htm)
 - 📫 Email: ht15077558839@gmail.com
-- 👟 Passionate in: Backend Development and Architectural Design
+- 👟 Passionate in: Backend Development | Architectural Design | AI Application Development
 - 👀 Hobby: 🏀 | 🏃 | 🏊‍♂️ | 🎸
 
 
