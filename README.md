@@ -47,7 +47,7 @@
     <tr>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile"
+            src="https://github-readme-stats-haoting-qins-projects.vercel.app/api?username=qinhaoting&theme=transparent&show_icons=true&include_all_commits=true&include_all_prs=true&hide_border=true&rank_icon=github"
             alt="My Github stats"
             height="400"
           />
@@ -56,7 +56,7 @@
           <img
             src="https://github-readme-stats-haoting-qins-projects.vercel.app/api/top-langs/?username=qinhaoting&theme=transparent&layout=compact&hide_border=true&langs_count=6&hide=html,javascript&size_weight=0.5&count_weight=0.5"
             alt="My Language stats"
-            height="300"
+            height="400"
           />
       </td>
     </tr>
